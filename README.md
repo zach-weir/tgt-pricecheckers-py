@@ -1,1 +1,1 @@
-# tgt-pricecheckers
+# tgt-pricecheckers-py
